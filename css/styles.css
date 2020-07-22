@@ -1,5 +1,6 @@
 body{
   background-color: powderblue;
+  font-family: 'Merriweather',serif;
 }
 
 img{
@@ -16,6 +17,8 @@ hr{
 }
 h1{
   color: #852E22;
+  font-family: 'Sacramento', cursive;
+    font-size: 4rem;
 }
 h3{
   color: #852E22;
