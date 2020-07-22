@@ -26,13 +26,11 @@ font-size: large;
 .move{
   position: relative;
   
-  bottom:31.5em;
-  position: relative;
-  left: 31.5em;
+     bottom:  100px;
+      left: 50px;
 }
 .top{
   position: relative;
-  bottom:31.5em;
-  position: relative;
-  left: 31.5em;
+    bottom:  100px;
+      left:35px;
 }
